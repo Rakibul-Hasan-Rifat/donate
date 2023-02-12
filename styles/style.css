@@ -3,6 +3,12 @@
     font-family: 'Inter', sans-serif;    
 }
 
+body {
+    /* fot website stability */
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
 header {
     padding: 60px 60px 0;
     display: flex;
